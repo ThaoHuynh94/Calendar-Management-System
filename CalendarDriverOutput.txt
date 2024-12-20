@@ -64,5 +64,4 @@ Menu Options:
 5. Exit
 Enter your choice: 5
 Exiting the calendar!
-Destructor of Calendar is called!
 
