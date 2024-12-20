@@ -1,0 +1,68 @@
+Menu Options:
+1. Create Reminder
+2. Create Meeting
+3. Create Appointment
+4. Display Events
+5. Exit
+Enter your choice: 1
+Enter the day, month, year for the reminder: 12 12 2024
+Enter the task for the reminder: Review CS Midterm
+
+Menu Options:
+1. Create Reminder
+2. Create Meeting
+3. Create Appointment
+4. Display Events
+5. Exit
+Enter your choice: 2
+Enter the day, month, year for the meeting: 12 12 2024
+Enter the title for the meeting: Physics Lab
+Enter the location for the meeting: Ohlone College
+How many attendees? 2
+Enter #1 attendee's name: Thdar
+Enter #2 attendee's name: Brian
+
+Menu Options:
+1. Create Reminder
+2. Create Meeting
+3. Create Appointment
+4. Display Events
+5. Exit
+Enter your choice: 3
+Enter the day, month, year for the appointment: 12 12 2024
+Enter the title for the appointment: Dentist appointment
+Enter the location for the appointment: Hayward
+
+Menu Options:
+1. Create Reminder
+2. Create Meeting
+3. Create Appointment
+4. Display Events
+5. Exit
+Enter your choice: 4
+Enter the date in MM/DD/YYYY format to check your calendar (Ex: 12/12/2012): 12/12/2024
+Events on 12/12/2024:
+Reminder: 12/12/2024 - Task: Review CS Midterm
+Meeting: 12/12/2024 - Attendees: Thdar Brian  - Titles: Physics Lab - Location: Ohlone College
+Appointment: 12/12/2024 - Title: Dentist appointment, Location: Hayward
+
+Menu Options:
+1. Create Reminder
+2. Create Meeting
+3. Create Appointment
+4. Display Events
+5. Exit
+Enter your choice: 4
+Enter the date in MM/DD/YYYY format to check your calendar (Ex: 12/12/2012): 12/1/2024
+No events for 12/1/2024
+
+Menu Options:
+1. Create Reminder
+2. Create Meeting
+3. Create Appointment
+4. Display Events
+5. Exit
+Enter your choice: 5
+Exiting the calendar!
+Destructor of Calendar is called!
+
